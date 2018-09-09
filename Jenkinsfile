@@ -1,4 +1,4 @@
-node {
+node('Centos') {
    
    	stage 'Stage 1'
    		echo 'Hello there, shell scripts'
